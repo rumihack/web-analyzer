@@ -8,7 +8,7 @@ import java.util.List;
 public class App {
 
     // Cambia la URL aqui para probar distintos sitios
-    private static final String URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+    private static final String URL = "https://www.youtube.com/live/TgMtUBZ0lpM";
 
     // Ruta de yt-dlp
     private static final String YTDLP = "/usr/local/bin/yt-dlp";
